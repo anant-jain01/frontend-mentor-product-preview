@@ -1,4 +1,6 @@
 # Frontend Mentor - Product preview card component
+LINK TO VIEW:
+https://frontend-mentor-product-preview-rouge.vercel.app/
 
 ![Design preview for the Product preview card component coding challenge](./design/desktop-preview.jpg)
 
